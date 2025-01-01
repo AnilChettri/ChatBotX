@@ -1,3 +1,2 @@
 streamlit
 nltk
-sqlite3  # SQLite is included in Python, but for safety, list it here.
